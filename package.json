@@ -1,0 +1,29 @@
+{
+  "name": "servidorexpress",
+  "version": "0.0.0",
+  "description": "levantamiento de un servidor con express",
+  "scripts": {
+    "test": "nodemon test.js",
+    "start": "node main.js"
+  },
+  "author": "ivancaro1 <ivanfelipecaro98@gmail.com>",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mathjs": "^10.5.0",
+    "moment": "^2.29.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivancaro1/servidor_express.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivancaro1/servidor_express/issues"
+  },
+  "homepage": "https://github.com/ivancaro1/servidor_express#readme"
+}
